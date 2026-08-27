@@ -19,7 +19,7 @@ I build backend systems with a focus on clean architecture, security, and deploy
 **E-commerce Backend (Spring Boot)**
 A production-style backend with JWT authentication, role-based access control, and Docker containerization — deployed on Render with Aiven MySQL. Includes Swagger UI docs and a full CI-ready setup.
 `Java` `Spring Boot` `MySQL` `Docker` `JWT` `Swagger`
-🔗 [Live Demo](https://www.linkedin.com/in/shreya-lambodari/) · 📄 [Repo](https://github.com/ShreyaLambodari/SpringBoot---E-commerce-Backend-Project)
+🔗 [Live Demo](https://springboot-e-commerce-backend-project.onrender.com/swagger-ui/index.html) · 📄 [Repo](https://github.com/ShreyaLambodari/SpringBoot---E-commerce-Backend-Project)
 
 ### 💼 Experience
 - **Web Development & Performance Optimization Intern** — HAAT INDIA
